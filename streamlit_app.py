@@ -17,7 +17,7 @@ response = None
 st.title('Bank Marketing Analysis and Modeling', anchor=None)
 
 st.write("""
-    - [Exploratory Data Analysis](https://github.com/dendihandian/bank-marketing-analysis/blob/main/bank-marketing.ipynb)
+    - [Exploratory Data Analysis](https://github.com/26Dayana/Bank-Marketing/blob/main/Bank_Marketing_with_Machine_Learning%20(2).ipynb)
     - [Dataset](https://www.kaggle.com/datasets/dhirajnirne/bank-marketing)
 """)
 
